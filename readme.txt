@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 this is fixed conflicts. 
+
+no fast forwar.

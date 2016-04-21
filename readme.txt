@@ -6,3 +6,4 @@ Git tracks changes.
 this is fixed conflicts. 
 
 no fast forwar.
+test new name and email.
